@@ -1,0 +1,2 @@
+set_property PACKAGE_PIN AR13     [get_ports "calib_complete_led"] ;# Bank  64 VCCO - VCC1V8   - IO_L7N_T1L_N1_QBC_AD13N_64
+set_property IOSTANDARD  LVCMOS18 [get_ports "calib_complete_led"] ;# Bank  64 VCCO - VCC1V8   - IO_L7N_T1L_N1_QBC_AD13N_64

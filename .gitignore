@@ -1,0 +1,10 @@
+project/*
+# ignore ip folder except for the wrapper
+ip/*
+!ip/zynq_ddr/
+ip/zynq_ddr/*
+!ip/zynq_ddr/hdl/
+ip/zynq_ddr/hdl/*
+
+!*.vhd
+*.zip
